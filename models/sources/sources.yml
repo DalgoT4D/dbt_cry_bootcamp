@@ -1,0 +1,8 @@
+version: 2
+sources:
+- name: CRY_Programme_data_dalgo
+  schema: CRY_Programme_data_dalgo
+  tables:
+  - name: Family_information
+    identifier: Family_information
+    description: ''
